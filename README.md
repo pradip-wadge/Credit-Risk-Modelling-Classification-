@@ -1,6 +1,6 @@
 Credit Risk Modeling and Classification
 
-Overview12345
+Overview
 Credit Risk Modeling is crucial for financial institutions to evaluate loan applications and mitigate the risk of defaults. This project builds a machine learning classification model to assess credit risk by leveraging Python, MySQL, and Streamlit. The interactive application allows users to explore insights, visualize trends, and make predictions.
 
 Features
